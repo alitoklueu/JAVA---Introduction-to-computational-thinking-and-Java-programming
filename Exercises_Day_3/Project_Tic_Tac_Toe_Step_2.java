@@ -2,7 +2,7 @@ package Exercises_Day_3;
 
 import java.util.Scanner;
 
-public class Project_Tic_Tac_Toe_2 {
+public class Project_Tic_Tac_Toe_Step_2 {
    public static void main(String[] args) {
 
         //Get the player names

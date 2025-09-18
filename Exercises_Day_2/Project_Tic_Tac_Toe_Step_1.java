@@ -2,7 +2,7 @@ package Exercises_Day_2;
 
 import java.util.Scanner;
 
-public class Project_Tic_Tac_Toe {
+public class Project_Tic_Tac_Toe_Step_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
